@@ -1,3 +1,4 @@
+#It has some problems, WIP
 import PIL.Image
  
 img_flag = True
